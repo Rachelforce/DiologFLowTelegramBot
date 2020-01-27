@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Darya",
+    "id": 910965365,
+    "is_bot": false,
+    "language_code": "ru",
+    "last_name": null,
+    "username": "litvinavaaa"
+  },
+  {
+    "first_name": "%",
+    "id": 670481108,
+    "is_bot": false,
+    "language_code": "ru",
+    "last_name": null,
+    "username": "s99pl66"
+  },
+  {
+    "first_name": "₆⁶₆",
+    "id": 339666816,
+    "is_bot": false,
+    "language_code": "ru",
+    "last_name": null,
+    "username": "TiredOne"
+  },
+  {
+    "first_name": "Danil",
+    "id": 622492578,
+    "is_bot": false,
+    "language_code": "ru",
+    "last_name": "Matvienko",
+    "username": null
+  },
+  {
+    "first_name": "Jo",
+    "id": 704159189,
+    "is_bot": false,
+    "language_code": "ru",
+    "last_name": "Belagio",
+    "username": null
+  },
+  {
+    "first_name": "Тёма",
+    "id": 628632656,
+    "is_bot": false,
+    "last_name": "Писков",
+    "username": "rachelforce",
+    "language_code": "en"
+  }
+]
